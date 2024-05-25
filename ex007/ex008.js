@@ -1,0 +1,1 @@
+CSSCounterStyleRule.log('O console funcinou!')
